@@ -36,9 +36,12 @@ nav.scrolled {
   font-size: 1.5rem;
   font-weight: bold;
   background: linear-gradient(90deg, #00c6ff, #0072ff);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
+  background-clip: text;              
+  -webkit-background-clip: text;      
+  color: transparent;                 
+  -webkit-text-fill-color: transparent; 
 }
+
 
 .nav-links {
   display: flex;
