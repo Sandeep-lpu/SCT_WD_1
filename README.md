@@ -10,9 +10,6 @@ A responsive landing page with an interactive navigation menu, smooth scrolling,
 - 📜 **Smooth Scrolling** – Seamless navigation  
 - 📂 **Clean Codebase** – Separate HTML, CSS, and JS files  
 
-## 📸 Demo  
-![Landing Page Screenshot](./screenshot.png)  
-*(Add your own screenshot or gif demo here)*  
 
 ## 🚀 Installation & Usage  
 1. Clone the repository:  
